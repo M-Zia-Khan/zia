@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Zia's Data Science blog
 
 You can use the [editor on GitHub](https://github.com/M-Zia-Khan/zia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
